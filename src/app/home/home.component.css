@@ -1,0 +1,23 @@
+
+.home-list-layout{
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: black;
+  border-style: solid;
+  background-color: rgb(252, 235, 0);
+  line-height: 300%;
+}
+
+mat-list{
+  cursor: pointer;
+}
+mat-list-item:hover{
+  background-color: powderblue;
+}
+
+.mat-fab-button{
+  position: fixed;
+  right: 1em;
+  bottom: 1em;
+}
+
